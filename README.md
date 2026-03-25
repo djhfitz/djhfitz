@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danny Fitzgerald</h1>
 <h3 align="center">Computer Science student building practical development skills</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dannyjhfitzgerald/" target="_blank">LinkedIn</a>
-</p>
-
 ---
 
 ## 🧠 About Me
