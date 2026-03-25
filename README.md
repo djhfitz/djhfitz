@@ -142,13 +142,7 @@ Additional exposure to:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djhfitz&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djhfitz&show_icons=true" alt="GitHub Stats" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=djhfitz&label=Profile%20views&color=0e75b6&style=flat" alt="djhfitz" /> </p>
 
 ---
 
